@@ -9,8 +9,8 @@ Unter anderen wurden auch die Formularfelder verwendet. Auf das Einfügen von Ab
 Die zusätzlich eingefügten Links sind in erster Linie eine Erweiterung der Arbeit für mich selbst.
 
 (Nummer in Klammer gibt den Abschnitt mit der Lösung an)
-Do the following exercise in a Jupyter Notebook (a GitHub Link would be the best):
 
+Do the following exercise in a Jupyter Notebook (a GitHub Link would be the best):
 - Load the countries.csv directly via URL import into your panda data frame! (1)
 - Display some basic information as rows, columns and some basic statistical info. (2)
 - Show the last 4 rows of the data frame. (2)
