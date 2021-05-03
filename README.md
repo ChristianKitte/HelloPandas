@@ -8,7 +8,7 @@ Unter anderen wurden auch die Formularfelder verwendet. Auf das Einfügen von Ab
 
 Die zusätzlich eingefügten Links sind in erster Linie eine Erweiterung der Arbeit für mich selbst.
 
-(Nummer in Rot = Abschnitt mit der Lösung)
+(Nummer in Klammer gibt den Abschnitt mit der Lösung an)
 Do the following exercise in a Jupyter Notebook (a GitHub Link would be the best):
 
 - Load the countries.csv directly via URL import into your panda data frame! (1)
@@ -24,4 +24,3 @@ Do the following exercise in a Jupyter Notebook (a GitHub Link would be the best
 - Sort by name alphabetically (3)
 - Create a new data frame from the original where the area is changed as follows: all countries with > 1000000 get BIG and <= 1000000 get SMALL in the cell replaced! (6)
 
-<p style='color:red'>This is some red text.</p>
